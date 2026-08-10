@@ -25,18 +25,23 @@ I didn't start in data — I found my way here by noticing, over and over, that 
 - **Validating before visualizing** — I check data quality and relationships in SQL before a single chart gets built, so what I ship is something people can act on with confidence.
 - **Documenting as I go** — every metric I define has a written definition and a clear data source, so nobody downstream has to guess what a number means.
 
-## 🌱 What I'm Actively Growing
+## 🌱 How I'm Growing as a Data Analyst
 
-I'm not done learning, and I don't want to be. Right now I'm working through:
+I don't think of my skills as a finished list — I think of them as stages, and I'm honest about which stage I'm actually at.
 
-- **Microsoft Azure Data Fundamentals (DP-900)** — because I want cloud data concepts to be second nature, not something I learn under pressure
-- **HubSpot CRM Reporting** — closing a real gap, not collecting badges
-- **Deeper SQL** — pushing past basics toward joins, CTEs, and window functions
-- **AI-assisted analytics workflows** — using tools like Claude and ChatGPT to speed up SQL drafting, data cleaning, and exploratory analysis, while treating every AI output the same way I treat a first draft: something to verify against the source data, not something to trust blindly
-- **Staying ahead of where the role is heading** — the "data janitor" version of this job is disappearing. I'm building toward the version where AI handles the repetitive cleanup and I spend more time on the judgment calls: which pattern actually matters, what question to ask next, how to explain a risk before it becomes a problem
+**Where I started:** Excel, basic reporting, and a Microsoft PL-300 certification — the foundation that let me build my first real dashboards.
 
-I don't think being a good analyst in 2026 means resisting AI tools or waiting for someone to hand me a course on them. It means using them well, staying skeptical of their output, and getting better every week at the parts of the job that still require an actual human — curiosity, judgment, and knowing when a number doesn't smell right.
+**Where I am now:**
+- Building end-to-end Power BI projects from raw data to finished insight, including data validation, DAX, and Power Query
+- Writing SQL confidently at an intermediate level — comfortable with the fundamentals, still sharpening the harder stuff
+- Developing Python skills for data analysis, so I'm not limited to what Excel or Power BI can do on their own
 
+**Where I'm headed next:**
+- **Microsoft Azure Data Fundamentals (DP-900)** — understanding how data moves through cloud platforms, not just how to visualize it once it's there
+- **Deeper SQL** — joins, CTEs, and window functions, the difference between knowing SQL and actually solving a hard problem with it
+- **Python for data analysis** — building out pandas and data wrangling skills so I'm not limited to what Excel or Power BI can do on their own
+
+I don't expect to arrive somewhere and stop. Every project I finish teaches me what the next skill needs to be — and I'd rather chase that gap deliberately than wait for someone to point it out to me.
 <br>
 
 ## 📁 Featured Projects
