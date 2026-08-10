@@ -32,6 +32,10 @@ I'm not done learning, and I don't want to be. Right now I'm working through:
 - **Microsoft Azure Data Fundamentals (DP-900)** — because I want cloud data concepts to be second nature, not something I learn under pressure
 - **HubSpot CRM Reporting** — closing a real gap, not collecting badges
 - **Deeper SQL** — pushing past basics toward joins, CTEs, and window functions
+- **AI-assisted analytics workflows** — using tools like Claude and ChatGPT to speed up SQL drafting, data cleaning, and exploratory analysis, while treating every AI output the same way I treat a first draft: something to verify against the source data, not something to trust blindly
+- **Staying ahead of where the role is heading** — the "data janitor" version of this job is disappearing. I'm building toward the version where AI handles the repetitive cleanup and I spend more time on the judgment calls: which pattern actually matters, what question to ask next, how to explain a risk before it becomes a problem
+
+I don't think being a good analyst in 2026 means resisting AI tools or waiting for someone to hand me a course on them. It means using them well, staying skeptical of their output, and getting better every week at the parts of the job that still require an actual human — curiosity, judgment, and knowing when a number doesn't smell right.
 
 <br>
 
