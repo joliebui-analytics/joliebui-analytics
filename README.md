@@ -15,19 +15,16 @@
 
 </div>
 
-As an aspiring Data Analyst, I have developed practical skills in data cleaning, analysis, visualization, and reporting using Power BI, SQL, and Excel. My portfolio projects focus on transforming raw data into clear dashboards, identifying meaningful trends, and providing practical recommendations for real-world business scenarios. I am eager to apply my analytical skills and fresh perspective in the data analytics field.
+I didn't start in data — I found my way here by noticing, over and over, that the slow part of every job I had was the part nobody had gotten around to fixing. So I fixed it. That instinct, plus a Microsoft PL-300 certification, is what I bring to every dashboard, dataset, and messy spreadsheet I touch. I'm not interested in just reporting what happened — I want to know why, and what to actually do about it.
 
 </div>
 
 ## 📊 About Me
 
-- 📈 Developing practical skills in data cleaning, transformation, analysis, visualization, and reporting
-- 🛠️ Working with Power BI, SQL, Excel, Power Query, DAX, and Python
-- 📊 Building portfolio projects that address practical business questions using data
-- 🔍 Enjoying identifying patterns, trends, and opportunities hidden within complex datasets
-- 💡 Transforming raw data into clear dashboards, meaningful insights, and actionable recommendations
-- 🌱 Continuously learning new tools and strengthening my technical, analytical, and data storytelling skills
-- 🚀 Working toward becoming a well-rounded Data Analyst who can transform data into effective reporting solutions and support informed business decisions
+🔍 What I'm Good At
+Finding the pattern nobody flagged yet — in my supply chain project, I noticed shipping distance varied far more than order volume across factories, pointing to a distribution issue rather than a demand one — a distinction that changes what actually needs fixing.
+Validating before visualizing — I check data quality and relationships in SQL before a single chart gets built, so what I ship is something people can act on with confidence.
+Documenting as I go — every metric I define has a written definition and a clear data source, so nobody downstream has to guess what a number means.
 
 ## 🧰 Technical Skills
 
