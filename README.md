@@ -52,7 +52,7 @@ I owned this end-to-end — writing the SQL to import, validate, and clean the s
   </a>
 </p>
 
-👉 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9) &nbsp;•&nbsp; [View Project Repo](https://github.com/joliebui-analytics/Supply-Chain-Shipping)
+👉 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9) &nbsp;•&nbsp; [View Project Report](https://github.com/joliebui-analytics/Supply-Chain-Shipping)
 
 ---
 
@@ -73,7 +73,8 @@ I mapped every table in the dataset (Sales, Customers, Products, Factories, Sale
   </a>
 </p>
 
-👉 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e) &nbsp;•&nbsp; [View Project Repo](https://github.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard)
+👉 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e) &nbsp;•&nbsp; [View Project Report](https://github.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard)
+
 ## 🧰 Technical Skills
 
 ### 👉 Data Visualization & Reporting
@@ -133,31 +134,6 @@ Credential ID: `C42FAEB6EABB`
 ### Excel Skills for Business: Intermediate I
 
 [View Credential](https://coursera.org/share/0f818a9fe57241e226cf797eb67e43ce)
-
-## 📁 Featured Projects
-
-<p align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9">
-    <img
-      src="https://raw.githubusercontent.com/joliebui-analytics/Supply-Chain-Shipping/main/Images/Sales.png"
-      width="300"
-      height="170"
-      style="object-fit: contain;"
-      alt="Supply Chain Shipping Dashboard">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e">
-    <img
-      src="https://raw.githubusercontent.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard/main/Images/Executive_Overview.png"
-      width="300"
-      height="170"
-      style="object-fit: contain;"
-      alt="Adventure Works Dashboard">
-  </a>
-</p>
-
-<p align="center">👉 <a href="https://github.com/joliebui-analytics/Supply-Chain-Shipping"><strong>Supply Chain Shipping Project</strong></a>&emsp;&emsp;&emsp;&emsp;👉 <a href="https://github.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard"><strong>Adventure Works Project</strong></a></p>
-
 
 ## 🤝 Let's Connect
 
