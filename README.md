@@ -33,6 +33,8 @@ I'm not done learning, and I don't want to be. Right now I'm working through:
 - **HubSpot CRM Reporting** — closing a real gap, not collecting badges
 - **Deeper SQL** — pushing past basics toward joins, CTEs, and window functions
 
+<br>
+
 ## 📁 Featured Projects
 
 ### 📦 Supply Chain Shipping Analysis Dashboard
@@ -75,6 +77,9 @@ I mapped every table in the dataset (Sales, Customers, Products, Factories, Sale
 
 👉 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e) &nbsp;•&nbsp; [View Project Report](https://github.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard)
 
+<br>
+
+
 ## 🧰 Technical Skills
 
 ### 👉 Data Visualization & Reporting
@@ -94,6 +99,8 @@ I mapped every table in the dataset (Sales, Customers, Products, Factories, Sale
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![DAX Studio](https://img.shields.io/badge/DAX%20STUDIO-139BAB?style=for-the-badge)
 
+<br>
+
 ## 🎯 Analytical & Professional Skills
 
 - Data storytelling
@@ -106,6 +113,9 @@ I mapped every table in the dataset (Sales, Customers, Products, Factories, Sale
 - Collaboration and teamwork
 - Time management
 - Continuous learning
+
+<br>
+
 
 ## 📜 Certifications
 
@@ -134,6 +144,8 @@ Credential ID: `C42FAEB6EABB`
 ### Excel Skills for Business: Intermediate I
 
 [View Credential](https://coursera.org/share/0f818a9fe57241e226cf797eb67e43ce)
+
+<br>
 
 ## 🤝 Let's Connect
 
