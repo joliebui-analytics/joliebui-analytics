@@ -19,14 +19,19 @@ I didn't start in data — I found my way here by noticing, over and over, that 
 
 </div>
 
-## 📊 About Me
+## 🔍 What I'm Good At
 
-🔍 What I'm Good At
+- **Finding the pattern nobody flagged yet** — in my supply chain project, I noticed shipping distance varied far more than order volume across factories, pointing to a distribution issue rather than a demand one — a distinction that changes what actually needs fixing.
+- **Validating before visualizing** — I check data quality and relationships in SQL before a single chart gets built, so what I ship is something people can act on with confidence.
+- **Documenting as I go** — every metric I define has a written definition and a clear data source, so nobody downstream has to guess what a number means.
 
-- Finding the pattern nobody flagged yet — in my supply chain project, I noticed shipping distance varied far more than order volume across factories, pointing to a distribution issue rather than a demand one — a distinction that changes what actually needs fixing.
-- Validating before visualizing — I check data quality and relationships in SQL before a single chart gets built, so what I ship is something people can act on with confidence.
-- Documenting as I go — every metric I define has a written definition and a clear data source, so nobody downstream has to guess what a number means.
+## 🌱 What I'm Actively Growing
 
+I'm not done learning, and I don't want to be. Right now I'm working through:
+
+- **Microsoft Azure Data Fundamentals (DP-900)** — because I want cloud data concepts to be second nature, not something I learn under pressure
+- **HubSpot CRM Reporting** — closing a real gap, not collecting badges
+- **Deeper SQL** — pushing past basics toward joins, CTEs, and window functions
 ## 🧰 Technical Skills
 
 ### 👉 Data Visualization & Reporting
