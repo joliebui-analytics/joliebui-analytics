@@ -54,7 +54,7 @@ I owned this end-to-end — writing the SQL to import, validate, and clean the s
 
 👉 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9) &nbsp;•&nbsp; [View Project Report](https://github.com/joliebui-analytics/Supply-Chain-Shipping)
 
--- 
+ <br>
 
 ### 🚴 Adventure Works Sales & Customer Insights Dashboard
 **Business problem:** Understand what's driving — and holding back — bike sales performance across products, regions, and customer segments.
