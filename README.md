@@ -32,6 +32,48 @@ I'm not done learning, and I don't want to be. Right now I'm working through:
 - **Microsoft Azure Data Fundamentals (DP-900)** — because I want cloud data concepts to be second nature, not something I learn under pressure
 - **HubSpot CRM Reporting** — closing a real gap, not collecting badges
 - **Deeper SQL** — pushing past basics toward joins, CTEs, and window functions
+
+## 📁 Featured Projects
+
+### 📦 Supply Chain Shipping Analysis Dashboard
+**Business problem:** Reduce stockouts and improve inventory planning across a multi-factory supply network.
+
+I owned this end-to-end — writing the SQL to import, validate, and clean the source data before touching a single visual, then building the Power BI model and dashboard from the ground up. **What I found:** shipping distance varied far more between factories than order volume did — a signal pointing to a distribution inefficiency, not a demand problem. That distinction changes what a business would actually fix.
+
+`SQL Server` `Power BI` `Excel`
+
+<p>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9">
+    <img
+      src="https://raw.githubusercontent.com/joliebui-analytics/Supply-Chain-Shipping/main/Images/Sales.png"
+      width="380"
+      style="object-fit: contain;"
+      alt="Supply Chain Shipping Dashboard">
+  </a>
+</p>
+
+👉 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9) &nbsp;•&nbsp; [View Project Repo](https://github.com/joliebui-analytics/Supply-Chain-Shipping)
+
+---
+
+### 🚴 Adventure Works Sales & Customer Insights Dashboard
+**Business problem:** Understand what's driving — and holding back — bike sales performance across products, regions, and customer segments.
+
+I mapped every table in the dataset (Sales, Customers, Products, Factories, Sales Targets, Calendar) before writing a single DAX measure, so every KPI I built was grounded in what the data actually represented, not a guess. From there, I built DAX measures and Power Query transformations to track sales performance, profitability, and target achievement.
+
+`Power BI` `DAX` `Power Query`
+
+<p>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e">
+    <img
+      src="https://raw.githubusercontent.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard/main/Images/Executive_Overview.png"
+      width="380"
+      style="object-fit: contain;"
+      alt="Adventure Works Dashboard">
+  </a>
+</p>
+
+👉 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e) &nbsp;•&nbsp; [View Project Repo](https://github.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard)
 ## 🧰 Technical Skills
 
 ### 👉 Data Visualization & Reporting
