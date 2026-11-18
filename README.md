@@ -15,33 +15,35 @@
 
 </div>
 
-I didn't start in data — I found my way here by noticing, over and over, that the slow part of every job I had was the part nobody had gotten around to fixing. So I fixed it. That instinct, plus a Microsoft PL-300 certification, is what I bring to every dashboard, dataset, and messy spreadsheet I touch. I'm not interested in just reporting what happened — I want to know why, and what to actually do about it.
+I didn't start in data. I found my way here by noticing, over and over, that the slow part of every job I had was the part nobody had gotten around to fixing. So I fixed it. That instinct, plus a Microsoft PL-300 certification and my studies in Data Analytics at Seneca College, is what I bring to every dashboard, dataset, and messy spreadsheet I touch. I'm not interested in just reporting what happened. I want to know why, and what to actually do about it.
 
 </div>
 
 ## 🔍 What I'm Good At
 
-- **Finding the pattern nobody flagged yet** — in my supply chain project, I noticed shipping distance varied far more than order volume across factories, pointing to a distribution issue rather than a demand one — a distinction that changes what actually needs fixing.
-- **Validating before visualizing** — I check data quality and relationships in SQL before a single chart gets built, so what I ship is something people can act on with confidence.
-- **Documenting as I go** — every metric I define has a written definition and a clear data source, so nobody downstream has to guess what a number means.
+* **Finding the pattern nobody flagged yet:** in my supply chain project, I noticed shipping distance varied far more than order volume across factories, pointing to a distribution issue rather than a demand one. That distinction changes what actually needs fixing.
+* **Validating before visualizing:** I check data quality and relationships in SQL before a single chart gets built, so what I ship is something people can act on with confidence.
+* **Documenting as I go:** every metric I define has a written definition and a clear data source, so nobody downstream has to guess what a number means.
 
 ## 🌱 How I'm Growing as a Data Analyst
 
-I don't think of my skills as a finished list — I think of them as stages, and I'm honest about which stage I'm actually at.
+I don't think of my skills as a finished list. I think of them as stages, and I'm honest about which stage I'm actually at.
 
-**Where I started:** Excel, basic reporting, and a Microsoft PL-300 certification — the foundation that let me build my first real dashboards.
+**Where I started:** Excel, basic reporting, and a Microsoft PL-300 certification, the foundation that let me build my first real dashboards.
 
 **Where I am now:**
-- Building end-to-end Power BI projects from raw data to finished insight, including data validation, DAX, and Power Query
-- Writing SQL confidently at an intermediate level — comfortable with the fundamentals, still sharpening the harder stuff
-- Developing Python skills for data analysis, so I'm not limited to what Excel or Power BI can do on their own
+
+* Building end-to-end Power BI projects from raw data to finished insight, including data validation, DAX, and Power Query
+* Writing SQL with joins, CTEs, and window functions, and modelling data into star schemas
+* Building my foundation in statistics and machine learning through Seneca College's Data Analytics program, alongside data preparation, Tableau, and Python for analytics
 
 **Where I'm headed next:**
-- **Microsoft Azure Data Fundamentals (DP-900)** — understanding how data moves through cloud platforms, not just how to visualize it once it's there
-- **Deeper SQL** — joins, CTEs, and window functions, the difference between knowing SQL and actually solving a hard problem with it
-- **Python for data analysis** — building out pandas and data wrangling skills so I'm not limited to what Excel or Power BI can do on their own
 
-I don't expect to arrive somewhere and stop. Every project I finish teaches me what the next skill needs to be — and I'd rather chase that gap deliberately than wait for someone to point it out to me.
+* Analytics engineering: building clean, well-documented data models that the rest of a team can trust and reuse
+* Microsoft Azure Data Fundamentals (DP-900): understanding how data moves through cloud platforms, not just how to visualize it once it's there
+* Python for data work: building out pandas and data wrangling skills so I'm not limited to what Excel or Power BI can do on their own
+
+I don't expect to arrive somewhere and stop. Every project I finish teaches me what the next skill needs to be, and I'd rather chase that gap deliberately than wait for someone to point it out to me.
 <br>
 
 ## 📁 Featured Projects
